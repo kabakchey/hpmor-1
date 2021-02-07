@@ -108,6 +108,8 @@ If you have, here's the TL;DR:
 - Repeat for each volume.
 - Order one proof copy of each!
 
+If you are looking for B5 (ISO-216) page size cover art & content files, you can find the same at [atb00ker/hpmor](https://github.com/atb00ker/hpmor). You can find the print instructions in B5 page size for India there as well.
+
 Have fun!
 
 
